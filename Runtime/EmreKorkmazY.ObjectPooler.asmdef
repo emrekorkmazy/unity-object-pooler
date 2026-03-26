@@ -1,0 +1,22 @@
+{
+    "name": "EmreKorkmazY.ObjectPooler",
+    "rootNamespace": "",
+    "references": [
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "jp.hadashikick.vcontainer",
+            "expression": "1.14.0",
+            "define": "VCONTAINER_1_14_0_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+  "name": "com.emrekorkmazy.objectpooler",
+  "version": "1.0.0",
+  "displayName": "Object Pooler",
+  "description": "A simple object pooling solution for Unity.",
+  "unity": "2022.3",
+  "keywords": [
+    "object pooling",
+    "performance",
+    "optimization"
+  ],
+  "author": {
+    "name": "Emre Korkmaz",
+    "email": "emrekorkmaz.dev@gmail.com",
+    "url": "https://github.com/emrekorkmazy"
+  },
+  "dependencies": {}
+}
